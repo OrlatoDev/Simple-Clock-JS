@@ -1,2 +1,2 @@
 # Simple-Clock-JS
-Simples relógio em js feito para estudo
+A Javascript clock made for studies.
